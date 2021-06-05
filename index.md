@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+![Image](https://images.unsplash.com/photo-1522072783977-1117b39ffb58?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHNoYXBlc3xlbnwwfDB8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60)
 
-You can use the [editor on GitHub](https://github.com/pablomluna/cit281-p6/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Project elements:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Creating three classes
+- First class is the Shape class that will serve as a base class for the other two classes
+- Scond class is the Rectangle class that will inherit from Shape class
+- A class that inherits from another class can be called the child class of the base, or parent, class
+- Third class is the Triangle class that also will inherit from the Shape class
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Learning Objectives: 
 
-# Header 1
-## Header 2
-### Header 3
+- Gain experience creating and working classes with inheritance
+- Gain more experience creating and working with classes
+- Gain more experience debugging code
+- Gain more experience using a generic block of code to process data
+- Gain more experience interpreting functional descriptions and specifications to complete an assignment
+- Gain more experience writing and executing non-web server Node.js JavaScript code using VSCode
+- Practice using modern JavaScript syntax
+- Gain more experience working with static data
 
-- Bulleted
-- List
+### Project Deliverables
 
-1. Numbered
-2. List
+1. (10) lab-06.zip
+2. (10) lab-07.zip
+3. (80) p6.js
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pablomluna/cit281-p6/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+pmanriqu@uoregon.edu
